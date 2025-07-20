@@ -16,3 +16,7 @@ Instrucciones:
 1. Se elige una de las opciones, seleccionando los números del 1 al 7.
 2. Se ingresa el valor a realizar el cambio.
 3. Se obtiene el resultado
+
+Autores del proyecto
+
+Jhonathan Zapata
